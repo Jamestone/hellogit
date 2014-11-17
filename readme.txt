@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 readme.txt on branch dev
 test stash
+test stash again
